@@ -1,0 +1,7 @@
+venv/
+*.task
+__pycache__/
+*.py[cod]
+.env
+*.mp4
+.DS_Store
